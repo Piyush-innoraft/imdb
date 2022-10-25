@@ -1,0 +1,17 @@
+name: imdb
+type: theme
+description:  'this is imdb custom theme'
+package:  Other
+core_version_requirement: ^8  ||  ^9
+libraries:
+  - imdb/imdb-styling
+base theme: bootstrap
+regions:
+  branding: Site branding
+  navigation: Navigation
+  search: Search
+  primary:  Primary
+  secondary:  Secondary
+  content: Content
+  footer: Footer
+

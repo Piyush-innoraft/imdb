@@ -1,0 +1,5 @@
+imdb-styling:
+  version: 1.x
+  css:
+    component:
+      css/imbd-styling.css:  {}
